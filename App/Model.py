@@ -14,7 +14,7 @@ import joblib as joblib
 
 st.set_page_config(page_title="House Rent Prediction", page_icon="🏠", layout="wide", initial_sidebar_state="auto")
 st.markdown(f'<h1 style="text-align: center;"> House Rent Prediction </h1>', unsafe_allow_html=True)
-loaded_model = joblib.load('trained_house_data.pkl')
+loaded_model = joblib.load('Model/trained_house_data.pkl')
 
 col1, col2 = st.columns(2)
 with col1:
