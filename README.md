@@ -40,7 +40,7 @@ Develop a data-driven model that predicts the rental price of residential proper
 #### Exploratory Data Analysis:
 > Locality Wise Rent
 
-![map](https://github.com/Vengatesan-K/Retail-sales-forecast/assets/128688827/6d131b91-1518-4b22-8b75-be557a33288a)
+![map](https://github.com/Vengatesan-K/Resume-Analyzer-AI/assets/128688827/7a609794-1f00-4a5f-be90-36e808bd3fca)
 
 > Rent Distribution
 
