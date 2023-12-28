@@ -7,6 +7,10 @@ Develop a data-driven model that predicts the rental price of residential proper
 
 ![Screenshot 2023-12-28 162305](https://github.com/Vengatesan-K/Resume-Analyzer-AI/assets/128688827/fdc51e68-c87b-431a-916d-cd060a4e809d)
 
+**Target Test Output: [https://github.com/Vengatesan-K/Output/y_pred_final](https://github.com/Vengatesan-K/Smart-Predictive-Modeling-for-Rental-Property-Prices/blob/main/Output/y_pred_final.csv)**
+
+**Target Test Output with X_test: [https://github.com/Vengatesan-K/Output](https://github.com/Vengatesan-K/Smart-Predictive-Modeling-for-Rental-Property-Prices/blob/main/Output/output.csv)**
+
 
 ### About Data
 | S.No | Features         | Detail                                                                                        |
