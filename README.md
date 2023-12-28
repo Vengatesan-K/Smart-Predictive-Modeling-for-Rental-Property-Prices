@@ -28,3 +28,9 @@ Develop a data-driven model that predicts the rental price of residential proper
 | 23   | building_type    | The architectural style or type of building, e.g., Apartment, Individual House.                     |
 | 24   | balconies        | The number of balconies or outdoor spaces.                                                         |
 | 25   | rent             | The target variable, representing the rental price for the property.                               |
+
+#### Exploratory Data Analysis:
+> Locality Wise Rent
+
+![map](https://github.com/Vengatesan-K/Retail-sales-forecast/assets/128688827/6d131b91-1518-4b22-8b75-be557a33288a)
+
