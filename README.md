@@ -54,6 +54,9 @@ Develop a data-driven model that predicts the rental price of residential proper
 
 ![rent_ds](https://github.com/Vengatesan-K/Resume-Analyzer-AI/assets/128688827/e4a095b2-79e4-4c6a-893d-84b3b38a05c8)
 
+> Amenities Correlation
+
+![am_ds](https://github.com/Vengatesan-K/Resume-Analyzer-AI/assets/128688827/bffcd236-fe90-458b-8dd8-37dec669fb16)
 
 
 
