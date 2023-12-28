@@ -1,6 +1,5 @@
 streamlit 
 scikit-learn==1.3.2
-pickle
 joblib==1.3.2
 pandas==2.1.4
 
