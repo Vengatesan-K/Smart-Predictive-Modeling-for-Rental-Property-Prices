@@ -1,6 +1,8 @@
 # Smart-Predictive-Modeling-for-Rental-Property-Prices
 Develop a data-driven model that predicts the rental price of residential properties based on relevant features.
 
+**Website/Application Link: [https://vengat-predictive-modeling](https://vengat-predictive-modeling-for-rental-property-prices-kyvdz5v3j.streamlit.app/)**
+
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://vengat-predictive-modeling-for-rental-property-prices-kyvdz5v3j.streamlit.app/)
 
 ![Screenshot 2023-12-28 162305](https://github.com/Vengatesan-K/Resume-Analyzer-AI/assets/128688827/fdc51e68-c87b-431a-916d-cd060a4e809d)
