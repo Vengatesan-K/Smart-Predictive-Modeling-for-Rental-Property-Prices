@@ -46,11 +46,11 @@ Develop a data-driven model that predicts the rental price of residential proper
 
 ![map](https://github.com/Vengatesan-K/Resume-Analyzer-AI/assets/128688827/7a609794-1f00-4a5f-be90-36e808bd3fca)
 
-> Rent Distribution
+> Building Type  
 
 ![type_ds](https://github.com/Vengatesan-K/Resume-Analyzer-AI/assets/128688827/442faf0e-c596-4d16-9010-2e3530c9e92d)
 
-> Building Type
+> Rent Distribution
 
 ![rent_ds](https://github.com/Vengatesan-K/Resume-Analyzer-AI/assets/128688827/e4a095b2-79e4-4c6a-893d-84b3b38a05c8)
 
